@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores principales -->
+    <color name="bs_primary">#6D4C41</color>        <!-- Marrón barra superior -->
+    <color name="bs_primary_dark">#4E342E</color>   <!-- Marrón más oscuro (status bar) -->
+    <color name="bs_secondary">#FFB300</color>      <!-- Amarillo tipo acento -->
+    <color name="bs_background">#FFF8E1</color>     <!-- Fondo crema -->
+    <color name="bs_on_primary">#FFFFFF</color>     <!-- Texto sobre la barra -->
+</resources>
